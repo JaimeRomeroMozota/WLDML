@@ -1,0 +1,1712 @@
+  Page 1                                    Thu Aug 03 16:06:09 2023
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.2                            *
+  ******************************************************************
+  
+  Analysis begun Thu Aug 03 16:06:09 2023
+
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 0:00:00 hrs.
+   
+  WARNING: Negative pressures at 0:04:05 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 0:04:05 hrs.
+   
+  WARNING: Negative pressures at 0:09:58 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 0:09:58 hrs.
+   
+  WARNING: Negative pressures at 0:14:02 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 0:14:02 hrs.
+   
+  WARNING: Negative pressures at 0:19:55 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 0:19:55 hrs.
+   
+  WARNING: Negative pressures at 0:23:59 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 0:23:59 hrs.
+   
+  WARNING: Negative pressures at 0:29:52 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 0:29:52 hrs.
+   
+  WARNING: Negative pressures at 0:33:56 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 0:33:56 hrs.
+   
+  WARNING: Negative pressures at 0:39:49 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 0:39:49 hrs.
+   
+  WARNING: Negative pressures at 0:43:53 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 0:43:53 hrs.
+   
+  WARNING: Negative pressures at 0:49:46 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 0:49:46 hrs.
+   
+  WARNING: Negative pressures at 0:53:50 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 0:53:50 hrs.
+   
+  WARNING: Negative pressures at 0:59:43 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 0:59:43 hrs.
+   
+  WARNING: Negative pressures at 0:59:51 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 0:59:51 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 0:59:51 hrs.
+   
+  WARNING: Negative pressures at 1:00:00 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 1:00:00 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 1:00:00 hrs.
+   
+  WARNING: Negative pressures at 1:02:44 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 1:02:44 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 1:02:44 hrs.
+   
+  WARNING: Negative pressures at 1:15:26 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 1:15:26 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 1:15:26 hrs.
+   
+  WARNING: Negative pressures at 1:18:24 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 1:18:24 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 1:18:24 hrs.
+   
+  WARNING: Negative pressures at 1:18:34 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 1:18:34 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 1:18:34 hrs.
+   
+  WARNING: Negative pressures at 2:00:00 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 2:00:00 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 2:00:00 hrs.
+   
+  WARNING: Negative pressures at 2:07:23 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 2:07:23 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 2:07:23 hrs.
+   
+  WARNING: Negative pressures at 3:00:00 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 3:00:00 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:00:00 hrs.
+   
+  WARNING: Negative pressures at 3:00:38 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:00:38 hrs.
+   
+  WARNING: Negative pressures at 3:02:44 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:02:44 hrs.
+   
+  WARNING: Negative pressures at 3:06:49 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:06:49 hrs.
+   
+  WARNING: Negative pressures at 3:08:33 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 3:08:33 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:08:33 hrs.
+   
+  WARNING: Negative pressures at 3:13:24 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:13:24 hrs.
+   
+  WARNING: Negative pressures at 3:14:13 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 3:14:13 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:14:13 hrs.
+   
+  WARNING: Negative pressures at 3:17:12 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:17:12 hrs.
+   
+  WARNING: Negative pressures at 3:17:42 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 3:17:42 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:17:42 hrs.
+   
+  WARNING: Negative pressures at 3:24:00 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:24:00 hrs.
+   
+  WARNING: Negative pressures at 3:25:03 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 3:25:03 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:25:03 hrs.
+   
+  WARNING: Negative pressures at 3:27:50 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:27:50 hrs.
+   
+  WARNING: Negative pressures at 3:28:18 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 3:28:18 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:28:18 hrs.
+   
+  WARNING: Negative pressures at 3:34:39 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:34:39 hrs.
+   
+  WARNING: Negative pressures at 3:35:42 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 3:35:42 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:35:42 hrs.
+   
+  WARNING: Negative pressures at 3:38:28 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:38:28 hrs.
+   
+  WARNING: Negative pressures at 3:38:56 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 3:38:56 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:38:56 hrs.
+   
+  WARNING: Negative pressures at 3:39:41 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 3:39:41 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:39:41 hrs.
+   
+  WARNING: Negative pressures at 3:39:46 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 3:39:46 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 3:39:46 hrs.
+   
+  WARNING: Negative pressures at 4:00:00 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 4:00:00 hrs.
+   
+  WARNING: Negative pressures at 4:05:11 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 4:05:11 hrs.
+   
+  WARNING: Negative pressures at 4:23:44 hrs.
+   
+  WARNING: Negative pressures at 4:26:05 hrs.
+   
+  WARNING: Negative pressures at 4:30:10 hrs.
+   
+  WARNING: Negative pressures at 4:36:03 hrs.
+   
+  WARNING: Negative pressures at 4:40:07 hrs.
+   
+  WARNING: Negative pressures at 4:46:00 hrs.
+   
+  WARNING: Negative pressures at 4:50:04 hrs.
+   
+  WARNING: Negative pressures at 4:55:57 hrs.
+   
+  WARNING: Negative pressures at 5:00:00 hrs.
+   
+  WARNING: Negative pressures at 5:00:02 hrs.
+   
+  WARNING: Negative pressures at 5:05:04 hrs.
+  WARNING: Node 1 disconnected at 5:05:04 hrs
+  WARNING: Node 6 disconnected at 5:05:04 hrs
+  WARNING: Node 25 disconnected at 5:05:04 hrs
+  WARNING: Node 26 disconnected at 5:05:04 hrs
+  WARNING: Node 27 disconnected at 5:05:04 hrs
+  WARNING: Node 33 disconnected at 5:05:04 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 5:05:55 hrs.
+   
+  WARNING: Negative pressures at 5:06:55 hrs.
+  WARNING: Node 1 disconnected at 5:06:55 hrs
+  WARNING: Node 6 disconnected at 5:06:55 hrs
+  WARNING: Node 25 disconnected at 5:06:55 hrs
+  WARNING: Node 26 disconnected at 5:06:55 hrs
+  WARNING: Node 27 disconnected at 5:06:55 hrs
+  WARNING: Node 33 disconnected at 5:06:55 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 5:10:02 hrs.
+   
+  WARNING: Negative pressures at 5:13:41 hrs.
+  WARNING: Node 1 disconnected at 5:13:41 hrs
+  WARNING: Node 6 disconnected at 5:13:41 hrs
+  WARNING: Node 25 disconnected at 5:13:41 hrs
+  WARNING: Node 26 disconnected at 5:13:41 hrs
+  WARNING: Node 27 disconnected at 5:13:41 hrs
+  WARNING: Node 33 disconnected at 5:13:41 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 5:15:55 hrs.
+   
+  WARNING: Negative pressures at 5:18:32 hrs.
+  WARNING: Node 1 disconnected at 5:18:32 hrs
+  WARNING: Node 6 disconnected at 5:18:32 hrs
+  WARNING: Node 25 disconnected at 5:18:32 hrs
+  WARNING: Node 26 disconnected at 5:18:32 hrs
+  WARNING: Node 27 disconnected at 5:18:32 hrs
+  WARNING: Node 33 disconnected at 5:18:32 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 5:20:02 hrs.
+   
+  WARNING: Negative pressures at 5:21:47 hrs.
+   
+  WARNING: Negative pressures at 5:25:55 hrs.
+  WARNING: Node 1 disconnected at 5:25:55 hrs
+  WARNING: Node 6 disconnected at 5:25:55 hrs
+  WARNING: Node 25 disconnected at 5:25:55 hrs
+  WARNING: Node 26 disconnected at 5:25:55 hrs
+  WARNING: Node 27 disconnected at 5:25:55 hrs
+  WARNING: Node 33 disconnected at 5:25:55 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 5:29:59 hrs.
+   
+  WARNING: Negative pressures at 5:34:45 hrs.
+  WARNING: Node 1 disconnected at 5:34:45 hrs
+  WARNING: Node 6 disconnected at 5:34:45 hrs
+  WARNING: Node 25 disconnected at 5:34:45 hrs
+  WARNING: Node 26 disconnected at 5:34:45 hrs
+  WARNING: Node 27 disconnected at 5:34:45 hrs
+  WARNING: Node 33 disconnected at 5:34:45 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 5:35:52 hrs.
+   
+  WARNING: Negative pressures at 5:37:10 hrs.
+   
+  WARNING: Negative pressures at 5:39:59 hrs.
+  WARNING: Node 1 disconnected at 5:39:59 hrs
+  WARNING: Node 6 disconnected at 5:39:59 hrs
+  WARNING: Node 25 disconnected at 5:39:59 hrs
+  WARNING: Node 26 disconnected at 5:39:59 hrs
+  WARNING: Node 27 disconnected at 5:39:59 hrs
+  WARNING: Node 33 disconnected at 5:39:59 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 5:45:52 hrs.
+   
+  WARNING: Negative pressures at 5:49:56 hrs.
+   
+  WARNING: Negative pressures at 5:52:45 hrs.
+   
+  WARNING: Negative pressures at 5:55:49 hrs.
+  WARNING: Node 1 disconnected at 5:55:49 hrs
+  WARNING: Node 6 disconnected at 5:55:49 hrs
+  WARNING: Node 25 disconnected at 5:55:49 hrs
+  WARNING: Node 26 disconnected at 5:55:49 hrs
+  WARNING: Node 27 disconnected at 5:55:49 hrs
+  WARNING: Node 33 disconnected at 5:55:49 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 5:59:53 hrs.
+   
+  WARNING: Negative pressures at 6:00:00 hrs.
+   
+  WARNING: Negative pressures at 6:02:42 hrs.
+  WARNING: Node 1 disconnected at 6:02:42 hrs
+  WARNING: Node 6 disconnected at 6:02:42 hrs
+  WARNING: Node 25 disconnected at 6:02:42 hrs
+  WARNING: Node 26 disconnected at 6:02:42 hrs
+  WARNING: Node 27 disconnected at 6:02:42 hrs
+  WARNING: Node 33 disconnected at 6:02:42 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 6:05:46 hrs.
+   
+  WARNING: Negative pressures at 6:07:51 hrs.
+  WARNING: Node 1 disconnected at 6:07:51 hrs
+  WARNING: Node 6 disconnected at 6:07:51 hrs
+  WARNING: Node 25 disconnected at 6:07:51 hrs
+  WARNING: Node 26 disconnected at 6:07:51 hrs
+  WARNING: Node 27 disconnected at 6:07:51 hrs
+  WARNING: Node 33 disconnected at 6:07:51 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 6:09:54 hrs.
+   
+  WARNING: Negative pressures at 6:11:17 hrs.
+   
+  WARNING: Negative pressures at 6:15:47 hrs.
+  WARNING: Node 1 disconnected at 6:15:47 hrs
+  WARNING: Node 6 disconnected at 6:15:47 hrs
+  WARNING: Node 25 disconnected at 6:15:47 hrs
+  WARNING: Node 26 disconnected at 6:15:47 hrs
+  WARNING: Node 27 disconnected at 6:15:47 hrs
+  WARNING: Node 33 disconnected at 6:15:47 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 6:19:51 hrs.
+   
+  WARNING: Negative pressures at 6:22:37 hrs.
+  WARNING: Node 1 disconnected at 6:22:37 hrs
+  WARNING: Node 6 disconnected at 6:22:37 hrs
+  WARNING: Node 25 disconnected at 6:22:37 hrs
+  WARNING: Node 26 disconnected at 6:22:37 hrs
+  WARNING: Node 27 disconnected at 6:22:37 hrs
+  WARNING: Node 33 disconnected at 6:22:37 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 6:25:44 hrs.
+   
+  WARNING: Negative pressures at 6:27:51 hrs.
+  WARNING: Node 1 disconnected at 6:27:51 hrs
+  WARNING: Node 6 disconnected at 6:27:51 hrs
+  WARNING: Node 25 disconnected at 6:27:51 hrs
+  WARNING: Node 26 disconnected at 6:27:51 hrs
+  WARNING: Node 27 disconnected at 6:27:51 hrs
+  WARNING: Node 33 disconnected at 6:27:51 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 6:29:52 hrs.
+   
+  WARNING: Negative pressures at 6:31:14 hrs.
+  WARNING: Node 1 disconnected at 6:31:14 hrs
+  WARNING: Node 6 disconnected at 6:31:14 hrs
+  WARNING: Node 25 disconnected at 6:31:14 hrs
+  WARNING: Node 26 disconnected at 6:31:14 hrs
+  WARNING: Node 27 disconnected at 6:31:14 hrs
+  WARNING: Node 33 disconnected at 6:31:14 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 6:35:45 hrs.
+   
+  WARNING: Negative pressures at 6:38:49 hrs.
+  WARNING: Node 1 disconnected at 6:38:49 hrs
+  WARNING: Node 6 disconnected at 6:38:49 hrs
+  WARNING: Node 25 disconnected at 6:38:49 hrs
+  WARNING: Node 26 disconnected at 6:38:49 hrs
+  WARNING: Node 27 disconnected at 6:38:49 hrs
+  WARNING: Node 33 disconnected at 6:38:49 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 6:39:52 hrs.
+   
+  WARNING: Negative pressures at 6:40:35 hrs.
+  WARNING: Node 1 disconnected at 6:40:35 hrs
+  WARNING: Node 6 disconnected at 6:40:35 hrs
+  WARNING: Node 25 disconnected at 6:40:35 hrs
+  WARNING: Node 26 disconnected at 6:40:35 hrs
+  WARNING: Node 27 disconnected at 6:40:35 hrs
+  WARNING: Node 33 disconnected at 6:40:35 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 6:45:45 hrs.
+   
+  WARNING: Negative pressures at 6:49:15 hrs.
+  WARNING: Node 1 disconnected at 6:49:15 hrs
+  WARNING: Node 6 disconnected at 6:49:15 hrs
+  WARNING: Node 25 disconnected at 6:49:15 hrs
+  WARNING: Node 26 disconnected at 6:49:15 hrs
+  WARNING: Node 27 disconnected at 6:49:15 hrs
+  WARNING: Node 33 disconnected at 6:49:15 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 6:49:51 hrs.
+   
+  WARNING: Negative pressures at 6:50:15 hrs.
+   
+  WARNING: Negative pressures at 6:55:44 hrs.
+  WARNING: Node 1 disconnected at 6:55:44 hrs
+  WARNING: Node 6 disconnected at 6:55:44 hrs
+  WARNING: Node 25 disconnected at 6:55:44 hrs
+  WARNING: Node 26 disconnected at 6:55:44 hrs
+  WARNING: Node 27 disconnected at 6:55:44 hrs
+  WARNING: Node 33 disconnected at 6:55:44 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 6:59:48 hrs.
+   
+  WARNING: Negative pressures at 7:00:00 hrs.
+   
+  WARNING: Negative pressures at 7:05:41 hrs.
+   
+  WARNING: Negative pressures at 7:06:12 hrs.
+  WARNING: Node 1 disconnected at 7:06:12 hrs
+  WARNING: Node 6 disconnected at 7:06:12 hrs
+  WARNING: Node 25 disconnected at 7:06:12 hrs
+  WARNING: Node 26 disconnected at 7:06:12 hrs
+  WARNING: Node 27 disconnected at 7:06:12 hrs
+  WARNING: Node 33 disconnected at 7:06:12 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 7:09:47 hrs.
+   
+  WARNING: Negative pressures at 7:15:40 hrs.
+  WARNING: Node 1 disconnected at 7:15:40 hrs
+  WARNING: Node 6 disconnected at 7:15:40 hrs
+  WARNING: Node 25 disconnected at 7:15:40 hrs
+  WARNING: Node 26 disconnected at 7:15:40 hrs
+  WARNING: Node 27 disconnected at 7:15:40 hrs
+  WARNING: Node 33 disconnected at 7:15:40 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 7:19:44 hrs.
+   
+  WARNING: Negative pressures at 7:25:37 hrs.
+   
+  WARNING: Negative pressures at 7:26:25 hrs.
+  WARNING: Node 1 disconnected at 7:26:25 hrs
+  WARNING: Node 6 disconnected at 7:26:25 hrs
+  WARNING: Node 25 disconnected at 7:26:25 hrs
+  WARNING: Node 26 disconnected at 7:26:25 hrs
+  WARNING: Node 27 disconnected at 7:26:25 hrs
+  WARNING: Node 33 disconnected at 7:26:25 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 7:29:43 hrs.
+   
+  WARNING: Negative pressures at 7:35:08 hrs.
+  WARNING: Node 1 disconnected at 7:35:08 hrs
+  WARNING: Node 6 disconnected at 7:35:08 hrs
+  WARNING: Node 25 disconnected at 7:35:08 hrs
+  WARNING: Node 26 disconnected at 7:35:08 hrs
+  WARNING: Node 27 disconnected at 7:35:08 hrs
+  WARNING: Node 33 disconnected at 7:35:08 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 7:35:36 hrs.
+   
+  WARNING: Negative pressures at 7:36:22 hrs.
+  WARNING: Node 1 disconnected at 7:36:22 hrs
+  WARNING: Node 6 disconnected at 7:36:22 hrs
+  WARNING: Node 25 disconnected at 7:36:22 hrs
+  WARNING: Node 26 disconnected at 7:36:22 hrs
+  WARNING: Node 27 disconnected at 7:36:22 hrs
+  WARNING: Node 33 disconnected at 7:36:22 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 7:39:42 hrs.
+   
+  WARNING: Negative pressures at 7:45:11 hrs.
+  WARNING: Node 1 disconnected at 7:45:11 hrs
+  WARNING: Node 6 disconnected at 7:45:11 hrs
+  WARNING: Node 25 disconnected at 7:45:11 hrs
+  WARNING: Node 26 disconnected at 7:45:11 hrs
+  WARNING: Node 27 disconnected at 7:45:11 hrs
+  WARNING: Node 33 disconnected at 7:45:11 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 7:45:35 hrs.
+   
+  WARNING: Negative pressures at 7:46:14 hrs.
+   
+  WARNING: Negative pressures at 7:49:41 hrs.
+  WARNING: Node 1 disconnected at 7:49:41 hrs
+  WARNING: Node 6 disconnected at 7:49:41 hrs
+  WARNING: Node 25 disconnected at 7:49:41 hrs
+  WARNING: Node 26 disconnected at 7:49:41 hrs
+  WARNING: Node 27 disconnected at 7:49:41 hrs
+  WARNING: Node 33 disconnected at 7:49:41 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 7:55:34 hrs.
+   
+  WARNING: Negative pressures at 7:59:38 hrs.
+   
+  WARNING: Negative pressures at 8:00:00 hrs.
+   
+  WARNING: Negative pressures at 8:05:31 hrs.
+   
+  WARNING: Negative pressures at 8:06:34 hrs.
+  WARNING: Node 1 disconnected at 8:06:34 hrs
+  WARNING: Node 6 disconnected at 8:06:34 hrs
+  WARNING: Node 25 disconnected at 8:06:34 hrs
+  WARNING: Node 26 disconnected at 8:06:34 hrs
+  WARNING: Node 27 disconnected at 8:06:34 hrs
+  WARNING: Node 33 disconnected at 8:06:34 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 8:09:38 hrs.
+   
+  WARNING: Negative pressures at 8:15:31 hrs.
+   
+  WARNING: Negative pressures at 8:15:58 hrs.
+  WARNING: Node 1 disconnected at 8:15:58 hrs
+  WARNING: Node 6 disconnected at 8:15:58 hrs
+  WARNING: Node 25 disconnected at 8:15:58 hrs
+  WARNING: Node 26 disconnected at 8:15:58 hrs
+  WARNING: Node 27 disconnected at 8:15:58 hrs
+  WARNING: Node 33 disconnected at 8:15:58 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 8:19:37 hrs.
+   
+  WARNING: Negative pressures at 8:25:30 hrs.
+   
+  WARNING: Negative pressures at 8:27:09 hrs.
+  WARNING: Node 1 disconnected at 8:27:09 hrs
+  WARNING: Node 6 disconnected at 8:27:09 hrs
+  WARNING: Node 25 disconnected at 8:27:09 hrs
+  WARNING: Node 26 disconnected at 8:27:09 hrs
+  WARNING: Node 27 disconnected at 8:27:09 hrs
+  WARNING: Node 33 disconnected at 8:27:09 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 8:29:37 hrs.
+   
+  WARNING: Negative pressures at 8:34:43 hrs.
+  WARNING: Node 1 disconnected at 8:34:43 hrs
+  WARNING: Node 6 disconnected at 8:34:43 hrs
+  WARNING: Node 25 disconnected at 8:34:43 hrs
+  WARNING: Node 26 disconnected at 8:34:43 hrs
+  WARNING: Node 27 disconnected at 8:34:43 hrs
+  WARNING: Node 33 disconnected at 8:34:43 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 8:35:30 hrs.
+   
+  WARNING: Negative pressures at 8:37:07 hrs.
+  WARNING: Node 1 disconnected at 8:37:07 hrs
+  WARNING: Node 6 disconnected at 8:37:07 hrs
+  WARNING: Node 25 disconnected at 8:37:07 hrs
+  WARNING: Node 26 disconnected at 8:37:07 hrs
+  WARNING: Node 27 disconnected at 8:37:07 hrs
+  WARNING: Node 33 disconnected at 8:37:07 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 8:39:37 hrs.
+   
+  WARNING: Negative pressures at 8:44:47 hrs.
+  WARNING: Node 1 disconnected at 8:44:47 hrs
+  WARNING: Node 6 disconnected at 8:44:47 hrs
+  WARNING: Node 25 disconnected at 8:44:47 hrs
+  WARNING: Node 26 disconnected at 8:44:47 hrs
+  WARNING: Node 27 disconnected at 8:44:47 hrs
+  WARNING: Node 33 disconnected at 8:44:47 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 8:45:30 hrs.
+   
+  WARNING: Negative pressures at 8:46:58 hrs.
+  WARNING: Node 1 disconnected at 8:46:58 hrs
+  WARNING: Node 6 disconnected at 8:46:58 hrs
+  WARNING: Node 25 disconnected at 8:46:58 hrs
+  WARNING: Node 26 disconnected at 8:46:58 hrs
+  WARNING: Node 27 disconnected at 8:46:58 hrs
+  WARNING: Node 33 disconnected at 8:46:58 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 8:49:37 hrs.
+   
+  WARNING: Negative pressures at 8:55:06 hrs.
+  WARNING: Node 1 disconnected at 8:55:06 hrs
+  WARNING: Node 6 disconnected at 8:55:06 hrs
+  WARNING: Node 25 disconnected at 8:55:06 hrs
+  WARNING: Node 26 disconnected at 8:55:06 hrs
+  WARNING: Node 27 disconnected at 8:55:06 hrs
+  WARNING: Node 33 disconnected at 8:55:06 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 8:55:30 hrs.
+   
+  WARNING: Negative pressures at 8:56:20 hrs.
+  WARNING: Node 1 disconnected at 8:56:20 hrs
+  WARNING: Node 6 disconnected at 8:56:20 hrs
+  WARNING: Node 25 disconnected at 8:56:20 hrs
+  WARNING: Node 26 disconnected at 8:56:20 hrs
+  WARNING: Node 27 disconnected at 8:56:20 hrs
+  WARNING: Node 33 disconnected at 8:56:20 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 8:59:36 hrs.
+   
+  WARNING: Negative pressures at 9:00:00 hrs.
+   
+  WARNING: Negative pressures at 9:05:29 hrs.
+   
+  WARNING: Negative pressures at 9:09:33 hrs.
+   
+  WARNING: Negative pressures at 9:12:58 hrs.
+  WARNING: Node 1 disconnected at 9:12:58 hrs
+  WARNING: Node 6 disconnected at 9:12:58 hrs
+  WARNING: Node 25 disconnected at 9:12:58 hrs
+  WARNING: Node 26 disconnected at 9:12:58 hrs
+  WARNING: Node 27 disconnected at 9:12:58 hrs
+  WARNING: Node 33 disconnected at 9:12:58 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 9:15:26 hrs.
+   
+  WARNING: Negative pressures at 9:19:30 hrs.
+   
+  WARNING: Negative pressures at 9:25:23 hrs.
+   
+  WARNING: Negative pressures at 9:25:53 hrs.
+  WARNING: Node 1 disconnected at 9:25:53 hrs
+  WARNING: Node 6 disconnected at 9:25:53 hrs
+  WARNING: Node 25 disconnected at 9:25:53 hrs
+  WARNING: Node 26 disconnected at 9:25:53 hrs
+  WARNING: Node 27 disconnected at 9:25:53 hrs
+  WARNING: Node 33 disconnected at 9:25:53 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 9:29:29 hrs.
+   
+  WARNING: Negative pressures at 9:35:22 hrs.
+   
+  WARNING: Negative pressures at 9:39:26 hrs.
+   
+  WARNING: Negative pressures at 9:44:44 hrs.
+  WARNING: Node 1 disconnected at 9:44:44 hrs
+  WARNING: Node 6 disconnected at 9:44:44 hrs
+  WARNING: Node 25 disconnected at 9:44:44 hrs
+  WARNING: Node 26 disconnected at 9:44:44 hrs
+  WARNING: Node 27 disconnected at 9:44:44 hrs
+  WARNING: Node 33 disconnected at 9:44:44 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 9:45:19 hrs.
+   
+  WARNING: Negative pressures at 9:47:47 hrs.
+  WARNING: Node 1 disconnected at 9:47:47 hrs
+  WARNING: Node 6 disconnected at 9:47:47 hrs
+  WARNING: Node 25 disconnected at 9:47:47 hrs
+  WARNING: Node 26 disconnected at 9:47:47 hrs
+  WARNING: Node 27 disconnected at 9:47:47 hrs
+  WARNING: Node 33 disconnected at 9:47:47 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 9:49:26 hrs.
+   
+  WARNING: Negative pressures at 9:55:19 hrs.
+   
+  WARNING: Negative pressures at 9:56:26 hrs.
+  WARNING: Node 1 disconnected at 9:56:26 hrs
+  WARNING: Node 6 disconnected at 9:56:26 hrs
+  WARNING: Node 25 disconnected at 9:56:26 hrs
+  WARNING: Node 26 disconnected at 9:56:26 hrs
+  WARNING: Node 27 disconnected at 9:56:26 hrs
+  WARNING: Node 33 disconnected at 9:56:26 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 9:59:26 hrs.
+   
+  WARNING: Negative pressures at 10:00:00 hrs.
+   
+  WARNING: Negative pressures at 10:05:19 hrs.
+   
+  WARNING: Negative pressures at 10:05:56 hrs.
+  WARNING: Node 1 disconnected at 10:05:56 hrs
+  WARNING: Node 6 disconnected at 10:05:56 hrs
+  WARNING: Node 25 disconnected at 10:05:56 hrs
+  WARNING: Node 26 disconnected at 10:05:56 hrs
+  WARNING: Node 27 disconnected at 10:05:56 hrs
+  WARNING: Node 33 disconnected at 10:05:56 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 10:09:25 hrs.
+   
+  WARNING: Negative pressures at 10:15:18 hrs.
+   
+  WARNING: Negative pressures at 10:16:38 hrs.
+  WARNING: Node 1 disconnected at 10:16:38 hrs
+  WARNING: Node 6 disconnected at 10:16:38 hrs
+  WARNING: Node 25 disconnected at 10:16:38 hrs
+  WARNING: Node 26 disconnected at 10:16:38 hrs
+  WARNING: Node 27 disconnected at 10:16:38 hrs
+  WARNING: Node 33 disconnected at 10:16:38 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 10:19:25 hrs.
+   
+  WARNING: Negative pressures at 10:25:11 hrs.
+  WARNING: Node 1 disconnected at 10:25:11 hrs
+  WARNING: Node 6 disconnected at 10:25:11 hrs
+  WARNING: Node 25 disconnected at 10:25:11 hrs
+  WARNING: Node 26 disconnected at 10:25:11 hrs
+  WARNING: Node 27 disconnected at 10:25:11 hrs
+  WARNING: Node 33 disconnected at 10:25:11 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 10:25:18 hrs.
+   
+  WARNING: Negative pressures at 10:25:33 hrs.
+  WARNING: Node 1 disconnected at 10:25:33 hrs
+  WARNING: Node 6 disconnected at 10:25:33 hrs
+  WARNING: Node 25 disconnected at 10:25:33 hrs
+  WARNING: Node 26 disconnected at 10:25:33 hrs
+  WARNING: Node 27 disconnected at 10:25:33 hrs
+  WARNING: Node 33 disconnected at 10:25:33 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 10:29:23 hrs.
+   
+  WARNING: Negative pressures at 10:35:16 hrs.
+   
+  WARNING: Negative pressures at 10:37:20 hrs.
+  WARNING: Node 1 disconnected at 10:37:20 hrs
+  WARNING: Node 6 disconnected at 10:37:20 hrs
+  WARNING: Node 25 disconnected at 10:37:20 hrs
+  WARNING: Node 26 disconnected at 10:37:20 hrs
+  WARNING: Node 27 disconnected at 10:37:20 hrs
+  WARNING: Node 33 disconnected at 10:37:20 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 10:39:24 hrs.
+   
+  WARNING: Negative pressures at 10:43:41 hrs.
+  WARNING: Node 1 disconnected at 10:43:41 hrs
+  WARNING: Node 6 disconnected at 10:43:41 hrs
+  WARNING: Node 25 disconnected at 10:43:41 hrs
+  WARNING: Node 26 disconnected at 10:43:41 hrs
+  WARNING: Node 27 disconnected at 10:43:41 hrs
+  WARNING: Node 33 disconnected at 10:43:41 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 10:45:17 hrs.
+   
+  WARNING: Negative pressures at 10:48:36 hrs.
+  WARNING: Node 1 disconnected at 10:48:36 hrs
+  WARNING: Node 6 disconnected at 10:48:36 hrs
+  WARNING: Node 25 disconnected at 10:48:36 hrs
+  WARNING: Node 26 disconnected at 10:48:36 hrs
+  WARNING: Node 27 disconnected at 10:48:36 hrs
+  WARNING: Node 33 disconnected at 10:48:36 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 10:49:23 hrs.
+   
+  WARNING: Negative pressures at 10:51:00 hrs.
+  WARNING: Node 1 disconnected at 10:51:00 hrs
+  WARNING: Node 6 disconnected at 10:51:00 hrs
+  WARNING: Node 25 disconnected at 10:51:00 hrs
+  WARNING: Node 26 disconnected at 10:51:00 hrs
+  WARNING: Node 27 disconnected at 10:51:00 hrs
+  WARNING: Node 33 disconnected at 10:51:00 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 10:55:16 hrs.
+   
+  WARNING: Negative pressures at 10:59:20 hrs.
+   
+  WARNING: Negative pressures at 11:00:00 hrs.
+   
+  WARNING: Negative pressures at 11:02:43 hrs.
+   
+  WARNING: Negative pressures at 11:05:13 hrs.
+  WARNING: Node 1 disconnected at 11:05:13 hrs
+  WARNING: Node 6 disconnected at 11:05:13 hrs
+  WARNING: Node 25 disconnected at 11:05:13 hrs
+  WARNING: Node 26 disconnected at 11:05:13 hrs
+  WARNING: Node 27 disconnected at 11:05:13 hrs
+  WARNING: Node 33 disconnected at 11:05:13 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 11:09:17 hrs.
+   
+  WARNING: Negative pressures at 11:14:52 hrs.
+  WARNING: Node 1 disconnected at 11:14:52 hrs
+  WARNING: Node 6 disconnected at 11:14:52 hrs
+  WARNING: Node 25 disconnected at 11:14:52 hrs
+  WARNING: Node 26 disconnected at 11:14:52 hrs
+  WARNING: Node 27 disconnected at 11:14:52 hrs
+  WARNING: Node 33 disconnected at 11:14:52 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 11:15:10 hrs.
+   
+  WARNING: Negative pressures at 11:15:34 hrs.
+  WARNING: Node 1 disconnected at 11:15:34 hrs
+  WARNING: Node 6 disconnected at 11:15:34 hrs
+  WARNING: Node 25 disconnected at 11:15:34 hrs
+  WARNING: Node 26 disconnected at 11:15:34 hrs
+  WARNING: Node 27 disconnected at 11:15:34 hrs
+  WARNING: Node 33 disconnected at 11:15:34 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 11:19:16 hrs.
+   
+  WARNING: Negative pressures at 11:24:21 hrs.
+  WARNING: Node 1 disconnected at 11:24:21 hrs
+  WARNING: Node 6 disconnected at 11:24:21 hrs
+  WARNING: Node 25 disconnected at 11:24:21 hrs
+  WARNING: Node 26 disconnected at 11:24:21 hrs
+  WARNING: Node 27 disconnected at 11:24:21 hrs
+  WARNING: Node 33 disconnected at 11:24:21 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 11:25:09 hrs.
+   
+  WARNING: Negative pressures at 11:26:15 hrs.
+  WARNING: Node 1 disconnected at 11:26:15 hrs
+  WARNING: Node 6 disconnected at 11:26:15 hrs
+  WARNING: Node 25 disconnected at 11:26:15 hrs
+  WARNING: Node 26 disconnected at 11:26:15 hrs
+  WARNING: Node 27 disconnected at 11:26:15 hrs
+  WARNING: Node 33 disconnected at 11:26:15 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 11:29:16 hrs.
+   
+  WARNING: Negative pressures at 11:33:24 hrs.
+  WARNING: Node 1 disconnected at 11:33:24 hrs
+  WARNING: Node 6 disconnected at 11:33:24 hrs
+  WARNING: Node 25 disconnected at 11:33:24 hrs
+  WARNING: Node 26 disconnected at 11:33:24 hrs
+  WARNING: Node 27 disconnected at 11:33:24 hrs
+  WARNING: Node 33 disconnected at 11:33:24 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 11:35:09 hrs.
+   
+  WARNING: Negative pressures at 11:37:33 hrs.
+  WARNING: Node 1 disconnected at 11:37:33 hrs
+  WARNING: Node 6 disconnected at 11:37:33 hrs
+  WARNING: Node 25 disconnected at 11:37:33 hrs
+  WARNING: Node 26 disconnected at 11:37:33 hrs
+  WARNING: Node 27 disconnected at 11:37:33 hrs
+  WARNING: Node 33 disconnected at 11:37:33 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 11:39:17 hrs.
+   
+  WARNING: Negative pressures at 11:41:39 hrs.
+   
+  WARNING: Negative pressures at 11:45:10 hrs.
+  WARNING: Node 1 disconnected at 11:45:10 hrs
+  WARNING: Node 6 disconnected at 11:45:10 hrs
+  WARNING: Node 25 disconnected at 11:45:10 hrs
+  WARNING: Node 26 disconnected at 11:45:10 hrs
+  WARNING: Node 27 disconnected at 11:45:10 hrs
+  WARNING: Node 33 disconnected at 11:45:10 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 11:49:14 hrs.
+   
+  WARNING: Negative pressures at 11:54:49 hrs.
+  WARNING: Node 1 disconnected at 11:54:49 hrs
+  WARNING: Node 6 disconnected at 11:54:49 hrs
+  WARNING: Node 25 disconnected at 11:54:49 hrs
+  WARNING: Node 26 disconnected at 11:54:49 hrs
+  WARNING: Node 27 disconnected at 11:54:49 hrs
+  WARNING: Node 33 disconnected at 11:54:49 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 11:55:07 hrs.
+   
+  WARNING: Negative pressures at 11:55:31 hrs.
+  WARNING: Node 1 disconnected at 11:55:31 hrs
+  WARNING: Node 6 disconnected at 11:55:31 hrs
+  WARNING: Node 25 disconnected at 11:55:31 hrs
+  WARNING: Node 26 disconnected at 11:55:31 hrs
+  WARNING: Node 27 disconnected at 11:55:31 hrs
+  WARNING: Node 33 disconnected at 11:55:31 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 11:59:13 hrs.
+   
+  WARNING: Negative pressures at 12:00:00 hrs.
+   
+  WARNING: Negative pressures at 12:05:06 hrs.
+   
+  WARNING: Negative pressures at 12:05:10 hrs.
+  WARNING: Node 1 disconnected at 12:05:10 hrs
+  WARNING: Node 6 disconnected at 12:05:10 hrs
+  WARNING: Node 25 disconnected at 12:05:10 hrs
+  WARNING: Node 26 disconnected at 12:05:10 hrs
+  WARNING: Node 27 disconnected at 12:05:10 hrs
+  WARNING: Node 33 disconnected at 12:05:10 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 12:09:11 hrs.
+   
+  WARNING: Negative pressures at 12:15:04 hrs.
+   
+  WARNING: Negative pressures at 12:15:49 hrs.
+  WARNING: Node 1 disconnected at 12:15:49 hrs
+  WARNING: Node 6 disconnected at 12:15:49 hrs
+  WARNING: Node 25 disconnected at 12:15:49 hrs
+  WARNING: Node 26 disconnected at 12:15:49 hrs
+  WARNING: Node 27 disconnected at 12:15:49 hrs
+  WARNING: Node 33 disconnected at 12:15:49 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 12:19:10 hrs.
+   
+  WARNING: Negative pressures at 12:23:24 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 12:23:24 hrs.
+   
+  WARNING: Negative pressures at 12:25:20 hrs.
+   
+  WARNING: Negative pressures at 12:25:40 hrs.
+  WARNING: Node 1 disconnected at 12:25:40 hrs
+  WARNING: Node 6 disconnected at 12:25:40 hrs
+  WARNING: Node 25 disconnected at 12:25:40 hrs
+  WARNING: Node 26 disconnected at 12:25:40 hrs
+  WARNING: Node 27 disconnected at 12:25:40 hrs
+  WARNING: Node 33 disconnected at 12:25:40 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 12:29:26 hrs.
+   
+  WARNING: Negative pressures at 12:35:19 hrs.
+   
+  WARNING: Negative pressures at 12:35:39 hrs.
+  WARNING: Node 1 disconnected at 12:35:39 hrs
+  WARNING: Node 6 disconnected at 12:35:39 hrs
+  WARNING: Node 25 disconnected at 12:35:39 hrs
+  WARNING: Node 26 disconnected at 12:35:39 hrs
+  WARNING: Node 27 disconnected at 12:35:39 hrs
+  WARNING: Node 33 disconnected at 12:35:39 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 12:39:24 hrs.
+   
+  WARNING: Negative pressures at 12:45:17 hrs.
+   
+  WARNING: Negative pressures at 12:45:36 hrs.
+  WARNING: Node 1 disconnected at 12:45:36 hrs
+  WARNING: Node 6 disconnected at 12:45:36 hrs
+  WARNING: Node 25 disconnected at 12:45:36 hrs
+  WARNING: Node 26 disconnected at 12:45:36 hrs
+  WARNING: Node 27 disconnected at 12:45:36 hrs
+  WARNING: Node 33 disconnected at 12:45:36 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 12:49:22 hrs.
+   
+  WARNING: Negative pressures at 12:53:58 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 12:53:58 hrs.
+   
+  WARNING: Negative pressures at 12:55:28 hrs.
+   
+  WARNING: Negative pressures at 12:56:20 hrs.
+  WARNING: Node 1 disconnected at 12:56:20 hrs
+  WARNING: Node 6 disconnected at 12:56:20 hrs
+  WARNING: Node 25 disconnected at 12:56:20 hrs
+  WARNING: Node 26 disconnected at 12:56:20 hrs
+  WARNING: Node 27 disconnected at 12:56:20 hrs
+  WARNING: Node 33 disconnected at 12:56:20 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 12:59:35 hrs.
+   
+  WARNING: Negative pressures at 13:00:00 hrs.
+   
+  WARNING: Negative pressures at 13:03:31 hrs.
+  WARNING: Node 1 disconnected at 13:03:31 hrs
+  WARNING: Node 6 disconnected at 13:03:31 hrs
+  WARNING: Node 25 disconnected at 13:03:31 hrs
+  WARNING: Node 26 disconnected at 13:03:31 hrs
+  WARNING: Node 27 disconnected at 13:03:31 hrs
+  WARNING: Node 33 disconnected at 13:03:31 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 13:05:28 hrs.
+   
+  WARNING: Negative pressures at 13:07:45 hrs.
+  WARNING: Node 1 disconnected at 13:07:45 hrs
+  WARNING: Node 6 disconnected at 13:07:45 hrs
+  WARNING: Node 25 disconnected at 13:07:45 hrs
+  WARNING: Node 26 disconnected at 13:07:45 hrs
+  WARNING: Node 27 disconnected at 13:07:45 hrs
+  WARNING: Node 33 disconnected at 13:07:45 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 13:09:36 hrs.
+   
+  WARNING: Negative pressures at 13:11:46 hrs.
+  WARNING: Node 1 disconnected at 13:11:46 hrs
+  WARNING: Node 6 disconnected at 13:11:46 hrs
+  WARNING: Node 25 disconnected at 13:11:46 hrs
+  WARNING: Node 26 disconnected at 13:11:46 hrs
+  WARNING: Node 27 disconnected at 13:11:46 hrs
+  WARNING: Node 33 disconnected at 13:11:46 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 13:15:29 hrs.
+   
+  WARNING: Negative pressures at 13:19:33 hrs.
+   
+  WARNING: Negative pressures at 13:19:51 hrs.
+  WARNING: Node 1 disconnected at 13:19:51 hrs
+  WARNING: Node 6 disconnected at 13:19:51 hrs
+  WARNING: Node 25 disconnected at 13:19:51 hrs
+  WARNING: Node 26 disconnected at 13:19:51 hrs
+  WARNING: Node 27 disconnected at 13:19:51 hrs
+  WARNING: Node 33 disconnected at 13:19:51 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 13:25:26 hrs.
+   
+  WARNING: Negative pressures at 13:29:30 hrs.
+   
+  WARNING: Negative pressures at 13:31:58 hrs.
+   
+  WARNING: Negative pressures at 13:35:23 hrs.
+  WARNING: Node 1 disconnected at 13:35:23 hrs
+  WARNING: Node 6 disconnected at 13:35:23 hrs
+  WARNING: Node 25 disconnected at 13:35:23 hrs
+  WARNING: Node 26 disconnected at 13:35:23 hrs
+  WARNING: Node 27 disconnected at 13:35:23 hrs
+  WARNING: Node 33 disconnected at 13:35:23 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 13:39:27 hrs.
+   
+  WARNING: Negative pressures at 13:44:13 hrs.
+  WARNING: Node 1 disconnected at 13:44:13 hrs
+  WARNING: Node 6 disconnected at 13:44:13 hrs
+  WARNING: Node 25 disconnected at 13:44:13 hrs
+  WARNING: Node 26 disconnected at 13:44:13 hrs
+  WARNING: Node 27 disconnected at 13:44:13 hrs
+  WARNING: Node 33 disconnected at 13:44:13 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 13:45:20 hrs.
+   
+  WARNING: Negative pressures at 13:46:39 hrs.
+  WARNING: Node 1 disconnected at 13:46:39 hrs
+  WARNING: Node 6 disconnected at 13:46:39 hrs
+  WARNING: Node 25 disconnected at 13:46:39 hrs
+  WARNING: Node 26 disconnected at 13:46:39 hrs
+  WARNING: Node 27 disconnected at 13:46:39 hrs
+  WARNING: Node 33 disconnected at 13:46:39 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 13:49:27 hrs.
+   
+  WARNING: Negative pressures at 13:52:44 hrs.
+  WARNING: Node 1 disconnected at 13:52:44 hrs
+  WARNING: Node 6 disconnected at 13:52:44 hrs
+  WARNING: Node 25 disconnected at 13:52:44 hrs
+  WARNING: Node 26 disconnected at 13:52:44 hrs
+  WARNING: Node 27 disconnected at 13:52:44 hrs
+  WARNING: Node 33 disconnected at 13:52:44 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 13:55:20 hrs.
+   
+  WARNING: Negative pressures at 13:58:22 hrs.
+   
+  WARNING: Negative pressures at 13:59:27 hrs.
+  WARNING: Node 1 disconnected at 13:59:27 hrs
+  WARNING: Node 6 disconnected at 13:59:27 hrs
+  WARNING: Node 25 disconnected at 13:59:27 hrs
+  WARNING: Node 26 disconnected at 13:59:27 hrs
+  WARNING: Node 27 disconnected at 13:59:27 hrs
+  WARNING: Node 33 disconnected at 13:59:27 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 14:00:00 hrs.
+   
+  WARNING: Negative pressures at 14:00:22 hrs.
+   
+  WARNING: Negative pressures at 14:05:20 hrs.
+  WARNING: Node 1 disconnected at 14:05:20 hrs
+  WARNING: Node 6 disconnected at 14:05:20 hrs
+  WARNING: Node 25 disconnected at 14:05:20 hrs
+  WARNING: Node 26 disconnected at 14:05:20 hrs
+  WARNING: Node 27 disconnected at 14:05:20 hrs
+  WARNING: Node 33 disconnected at 14:05:20 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 14:09:24 hrs.
+   
+  WARNING: Negative pressures at 14:12:10 hrs.
+  WARNING: Node 1 disconnected at 14:12:10 hrs
+  WARNING: Node 6 disconnected at 14:12:10 hrs
+  WARNING: Node 25 disconnected at 14:12:10 hrs
+  WARNING: Node 26 disconnected at 14:12:10 hrs
+  WARNING: Node 27 disconnected at 14:12:10 hrs
+  WARNING: Node 33 disconnected at 14:12:10 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 14:15:17 hrs.
+   
+  WARNING: Negative pressures at 14:17:24 hrs.
+  WARNING: Node 1 disconnected at 14:17:24 hrs
+  WARNING: Node 6 disconnected at 14:17:24 hrs
+  WARNING: Node 25 disconnected at 14:17:24 hrs
+  WARNING: Node 26 disconnected at 14:17:24 hrs
+  WARNING: Node 27 disconnected at 14:17:24 hrs
+  WARNING: Node 33 disconnected at 14:17:24 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 14:19:25 hrs.
+   
+  WARNING: Negative pressures at 14:20:47 hrs.
+   
+  WARNING: Negative pressures at 14:25:18 hrs.
+  WARNING: Node 1 disconnected at 14:25:18 hrs
+  WARNING: Node 6 disconnected at 14:25:18 hrs
+  WARNING: Node 25 disconnected at 14:25:18 hrs
+  WARNING: Node 26 disconnected at 14:25:18 hrs
+  WARNING: Node 27 disconnected at 14:25:18 hrs
+  WARNING: Node 33 disconnected at 14:25:18 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 14:29:22 hrs.
+   
+  WARNING: Negative pressures at 14:32:08 hrs.
+  WARNING: Node 1 disconnected at 14:32:08 hrs
+  WARNING: Node 6 disconnected at 14:32:08 hrs
+  WARNING: Node 25 disconnected at 14:32:08 hrs
+  WARNING: Node 26 disconnected at 14:32:08 hrs
+  WARNING: Node 27 disconnected at 14:32:08 hrs
+  WARNING: Node 33 disconnected at 14:32:08 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 14:35:15 hrs.
+   
+  WARNING: Negative pressures at 14:37:22 hrs.
+  WARNING: Node 1 disconnected at 14:37:22 hrs
+  WARNING: Node 6 disconnected at 14:37:22 hrs
+  WARNING: Node 25 disconnected at 14:37:22 hrs
+  WARNING: Node 26 disconnected at 14:37:22 hrs
+  WARNING: Node 27 disconnected at 14:37:22 hrs
+  WARNING: Node 33 disconnected at 14:37:22 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 14:39:23 hrs.
+   
+  WARNING: Negative pressures at 14:40:45 hrs.
+  WARNING: Node 1 disconnected at 14:40:45 hrs
+  WARNING: Node 6 disconnected at 14:40:45 hrs
+  WARNING: Node 25 disconnected at 14:40:45 hrs
+  WARNING: Node 26 disconnected at 14:40:45 hrs
+  WARNING: Node 27 disconnected at 14:40:45 hrs
+  WARNING: Node 33 disconnected at 14:40:45 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 14:45:16 hrs.
+   
+  WARNING: Negative pressures at 14:48:20 hrs.
+  WARNING: Node 1 disconnected at 14:48:20 hrs
+  WARNING: Node 6 disconnected at 14:48:20 hrs
+  WARNING: Node 25 disconnected at 14:48:20 hrs
+  WARNING: Node 26 disconnected at 14:48:20 hrs
+  WARNING: Node 27 disconnected at 14:48:20 hrs
+  WARNING: Node 33 disconnected at 14:48:20 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 14:49:23 hrs.
+   
+  WARNING: Negative pressures at 14:50:06 hrs.
+  WARNING: Node 1 disconnected at 14:50:06 hrs
+  WARNING: Node 6 disconnected at 14:50:06 hrs
+  WARNING: Node 25 disconnected at 14:50:06 hrs
+  WARNING: Node 26 disconnected at 14:50:06 hrs
+  WARNING: Node 27 disconnected at 14:50:06 hrs
+  WARNING: Node 33 disconnected at 14:50:06 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 14:55:16 hrs.
+   
+  WARNING: Negative pressures at 14:58:46 hrs.
+  WARNING: Node 1 disconnected at 14:58:46 hrs
+  WARNING: Node 6 disconnected at 14:58:46 hrs
+  WARNING: Node 25 disconnected at 14:58:46 hrs
+  WARNING: Node 26 disconnected at 14:58:46 hrs
+  WARNING: Node 27 disconnected at 14:58:46 hrs
+  WARNING: Node 33 disconnected at 14:58:46 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 14:59:22 hrs.
+   
+  WARNING: Negative pressures at 14:59:46 hrs.
+   
+  WARNING: Negative pressures at 15:00:00 hrs.
+  WARNING: Node 1 disconnected at 15:00:00 hrs
+  WARNING: Node 6 disconnected at 15:00:00 hrs
+  WARNING: Node 25 disconnected at 15:00:00 hrs
+  WARNING: Node 26 disconnected at 15:00:00 hrs
+  WARNING: Node 27 disconnected at 15:00:00 hrs
+  WARNING: Node 33 disconnected at 15:00:00 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 15:05:15 hrs.
+   
+  WARNING: Negative pressures at 15:09:19 hrs.
+   
+  WARNING: Negative pressures at 15:11:23 hrs.
+  WARNING: Node 1 disconnected at 15:11:23 hrs
+  WARNING: Node 6 disconnected at 15:11:23 hrs
+  WARNING: Node 25 disconnected at 15:11:23 hrs
+  WARNING: Node 26 disconnected at 15:11:23 hrs
+  WARNING: Node 27 disconnected at 15:11:23 hrs
+  WARNING: Node 33 disconnected at 15:11:23 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 15:15:12 hrs.
+   
+  WARNING: Negative pressures at 15:19:16 hrs.
+   
+  WARNING: Negative pressures at 15:19:40 hrs.
+  WARNING: Node 1 disconnected at 15:19:40 hrs
+  WARNING: Node 6 disconnected at 15:19:40 hrs
+  WARNING: Node 25 disconnected at 15:19:40 hrs
+  WARNING: Node 26 disconnected at 15:19:40 hrs
+  WARNING: Node 27 disconnected at 15:19:40 hrs
+  WARNING: Node 33 disconnected at 15:19:40 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 15:25:09 hrs.
+   
+  WARNING: Negative pressures at 15:29:13 hrs.
+   
+  WARNING: Negative pressures at 15:31:33 hrs.
+  WARNING: Node 1 disconnected at 15:31:33 hrs
+  WARNING: Node 6 disconnected at 15:31:33 hrs
+  WARNING: Node 25 disconnected at 15:31:33 hrs
+  WARNING: Node 26 disconnected at 15:31:33 hrs
+  WARNING: Node 27 disconnected at 15:31:33 hrs
+  WARNING: Node 33 disconnected at 15:31:33 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 15:35:06 hrs.
+   
+  WARNING: Negative pressures at 15:39:10 hrs.
+   
+  WARNING: Negative pressures at 15:39:15 hrs.
+  WARNING: Node 1 disconnected at 15:39:15 hrs
+  WARNING: Node 6 disconnected at 15:39:15 hrs
+  WARNING: Node 25 disconnected at 15:39:15 hrs
+  WARNING: Node 26 disconnected at 15:39:15 hrs
+  WARNING: Node 27 disconnected at 15:39:15 hrs
+  WARNING: Node 33 disconnected at 15:39:15 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 15:45:03 hrs.
+   
+  WARNING: Negative pressures at 15:49:07 hrs.
+   
+  WARNING: Negative pressures at 15:51:50 hrs.
+  WARNING: Node 1 disconnected at 15:51:50 hrs
+  WARNING: Node 6 disconnected at 15:51:50 hrs
+  WARNING: Node 25 disconnected at 15:51:50 hrs
+  WARNING: Node 26 disconnected at 15:51:50 hrs
+  WARNING: Node 27 disconnected at 15:51:50 hrs
+  WARNING: Node 33 disconnected at 15:51:50 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 15:55:00 hrs.
+   
+  WARNING: Negative pressures at 15:58:42 hrs.
+  WARNING: Node 1 disconnected at 15:58:42 hrs
+  WARNING: Node 6 disconnected at 15:58:42 hrs
+  WARNING: Node 25 disconnected at 15:58:42 hrs
+  WARNING: Node 26 disconnected at 15:58:42 hrs
+  WARNING: Node 27 disconnected at 15:58:42 hrs
+  WARNING: Node 33 disconnected at 15:58:42 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 15:59:06 hrs.
+   
+  WARNING: Negative pressures at 15:59:34 hrs.
+  WARNING: Node 1 disconnected at 15:59:34 hrs
+  WARNING: Node 6 disconnected at 15:59:34 hrs
+  WARNING: Node 25 disconnected at 15:59:34 hrs
+  WARNING: Node 26 disconnected at 15:59:34 hrs
+  WARNING: Node 27 disconnected at 15:59:34 hrs
+  WARNING: Node 33 disconnected at 15:59:34 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 16:00:00 hrs.
+   
+  WARNING: Negative pressures at 16:00:53 hrs.
+  WARNING: Node 1 disconnected at 16:00:53 hrs
+  WARNING: Node 6 disconnected at 16:00:53 hrs
+  WARNING: Node 25 disconnected at 16:00:53 hrs
+  WARNING: Node 26 disconnected at 16:00:53 hrs
+  WARNING: Node 27 disconnected at 16:00:53 hrs
+  WARNING: Node 33 disconnected at 16:00:53 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 16:04:59 hrs.
+   
+  WARNING: Negative pressures at 16:09:03 hrs.
+   
+  WARNING: Negative pressures at 16:13:26 hrs.
+  WARNING: Node 1 disconnected at 16:13:26 hrs
+  WARNING: Node 6 disconnected at 16:13:26 hrs
+  WARNING: Node 25 disconnected at 16:13:26 hrs
+  WARNING: Node 26 disconnected at 16:13:26 hrs
+  WARNING: Node 27 disconnected at 16:13:26 hrs
+  WARNING: Node 33 disconnected at 16:13:26 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 16:14:56 hrs.
+   
+  WARNING: Negative pressures at 16:18:02 hrs.
+  WARNING: Node 1 disconnected at 16:18:02 hrs
+  WARNING: Node 6 disconnected at 16:18:02 hrs
+  WARNING: Node 25 disconnected at 16:18:02 hrs
+  WARNING: Node 26 disconnected at 16:18:02 hrs
+  WARNING: Node 27 disconnected at 16:18:02 hrs
+  WARNING: Node 33 disconnected at 16:18:02 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 16:19:03 hrs.
+   
+  WARNING: Negative pressures at 16:21:09 hrs.
+  WARNING: Node 1 disconnected at 16:21:09 hrs
+  WARNING: Node 6 disconnected at 16:21:09 hrs
+  WARNING: Node 25 disconnected at 16:21:09 hrs
+  WARNING: Node 26 disconnected at 16:21:09 hrs
+  WARNING: Node 27 disconnected at 16:21:09 hrs
+  WARNING: Node 33 disconnected at 16:21:09 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 16:24:56 hrs.
+   
+  WARNING: Negative pressures at 16:29:00 hrs.
+   
+  WARNING: Negative pressures at 16:32:44 hrs.
+  WARNING: Node 1 disconnected at 16:32:44 hrs
+  WARNING: Node 6 disconnected at 16:32:44 hrs
+  WARNING: Node 25 disconnected at 16:32:44 hrs
+  WARNING: Node 26 disconnected at 16:32:44 hrs
+  WARNING: Node 27 disconnected at 16:32:44 hrs
+  WARNING: Node 33 disconnected at 16:32:44 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 16:34:53 hrs.
+   
+  WARNING: Negative pressures at 16:38:57 hrs.
+   
+  WARNING: Negative pressures at 16:39:20 hrs.
+  WARNING: Node 1 disconnected at 16:39:20 hrs
+  WARNING: Node 6 disconnected at 16:39:20 hrs
+  WARNING: Node 25 disconnected at 16:39:20 hrs
+  WARNING: Node 26 disconnected at 16:39:20 hrs
+  WARNING: Node 27 disconnected at 16:39:20 hrs
+  WARNING: Node 33 disconnected at 16:39:20 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 16:44:50 hrs.
+   
+  WARNING: Negative pressures at 16:48:54 hrs.
+   
+  WARNING: Negative pressures at 16:54:47 hrs.
+   
+  WARNING: Negative pressures at 16:56:11 hrs.
+  WARNING: Node 1 disconnected at 16:56:11 hrs
+  WARNING: Node 6 disconnected at 16:56:11 hrs
+  WARNING: Node 25 disconnected at 16:56:11 hrs
+  WARNING: Node 26 disconnected at 16:56:11 hrs
+  WARNING: Node 27 disconnected at 16:56:11 hrs
+  WARNING: Node 33 disconnected at 16:56:11 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 16:58:54 hrs.
+   
+  WARNING: Negative pressures at 17:00:00 hrs.
+   
+  WARNING: Negative pressures at 17:04:47 hrs.
+   
+  WARNING: Negative pressures at 17:08:51 hrs.
+   
+  WARNING: Negative pressures at 17:09:13 hrs.
+  WARNING: Node 1 disconnected at 17:09:13 hrs
+  WARNING: Node 6 disconnected at 17:09:13 hrs
+  WARNING: Node 25 disconnected at 17:09:13 hrs
+  WARNING: Node 26 disconnected at 17:09:13 hrs
+  WARNING: Node 27 disconnected at 17:09:13 hrs
+  WARNING: Node 33 disconnected at 17:09:13 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 17:14:44 hrs.
+   
+  WARNING: Negative pressures at 17:18:48 hrs.
+   
+  WARNING: Negative pressures at 17:24:41 hrs.
+   
+  WARNING: Negative pressures at 17:28:45 hrs.
+   
+  WARNING: Negative pressures at 17:34:38 hrs.
+   
+  WARNING: Negative pressures at 17:38:03 hrs.
+  WARNING: Node 1 disconnected at 17:38:03 hrs
+  WARNING: Node 6 disconnected at 17:38:03 hrs
+  WARNING: Node 25 disconnected at 17:38:03 hrs
+  WARNING: Node 26 disconnected at 17:38:03 hrs
+  WARNING: Node 27 disconnected at 17:38:03 hrs
+  WARNING: Node 33 disconnected at 17:38:03 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 17:38:44 hrs.
+   
+  WARNING: Negative pressures at 17:41:38 hrs.
+  WARNING: Node 1 disconnected at 17:41:38 hrs
+  WARNING: Node 6 disconnected at 17:41:38 hrs
+  WARNING: Node 25 disconnected at 17:41:38 hrs
+  WARNING: Node 26 disconnected at 17:41:38 hrs
+  WARNING: Node 27 disconnected at 17:41:38 hrs
+  WARNING: Node 33 disconnected at 17:41:38 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 17:44:37 hrs.
+   
+  WARNING: Negative pressures at 17:48:41 hrs.
+   
+  WARNING: Negative pressures at 17:54:34 hrs.
+   
+  WARNING: Negative pressures at 17:57:16 hrs.
+  WARNING: Node 1 disconnected at 17:57:16 hrs
+  WARNING: Node 6 disconnected at 17:57:16 hrs
+  WARNING: Node 25 disconnected at 17:57:16 hrs
+  WARNING: Node 26 disconnected at 17:57:16 hrs
+  WARNING: Node 27 disconnected at 17:57:16 hrs
+  WARNING: Node 33 disconnected at 17:57:16 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 17:58:41 hrs.
+   
+  WARNING: Negative pressures at 18:00:00 hrs.
+   
+  WARNING: Negative pressures at 18:04:34 hrs.
+   
+  WARNING: Negative pressures at 18:04:41 hrs.
+  WARNING: Node 1 disconnected at 18:04:41 hrs
+  WARNING: Node 6 disconnected at 18:04:41 hrs
+  WARNING: Node 25 disconnected at 18:04:41 hrs
+  WARNING: Node 26 disconnected at 18:04:41 hrs
+  WARNING: Node 27 disconnected at 18:04:41 hrs
+  WARNING: Node 33 disconnected at 18:04:41 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 18:08:39 hrs.
+   
+  WARNING: Negative pressures at 18:14:32 hrs.
+   
+  WARNING: Negative pressures at 18:18:36 hrs.
+   
+  WARNING: Negative pressures at 18:24:29 hrs.
+   
+  WARNING: Negative pressures at 18:25:29 hrs.
+  WARNING: Node 1 disconnected at 18:25:29 hrs
+  WARNING: Node 6 disconnected at 18:25:29 hrs
+  WARNING: Node 25 disconnected at 18:25:29 hrs
+  WARNING: Node 26 disconnected at 18:25:29 hrs
+  WARNING: Node 27 disconnected at 18:25:29 hrs
+  WARNING: Node 33 disconnected at 18:25:29 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 18:28:36 hrs.
+   
+  WARNING: Negative pressures at 18:34:29 hrs.
+   
+  WARNING: Negative pressures at 18:38:33 hrs.
+   
+  WARNING: Negative pressures at 18:41:51 hrs.
+  WARNING: Node 1 disconnected at 18:41:51 hrs
+  WARNING: Node 6 disconnected at 18:41:51 hrs
+  WARNING: Node 25 disconnected at 18:41:51 hrs
+  WARNING: Node 26 disconnected at 18:41:51 hrs
+  WARNING: Node 27 disconnected at 18:41:51 hrs
+  WARNING: Node 33 disconnected at 18:41:51 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 18:42:17 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 18:42:17 hrs.
+   
+  WARNING: Negative pressures at 18:44:48 hrs.
+   
+  WARNING: Negative pressures at 18:47:23 hrs.
+  WARNING: Node 1 disconnected at 18:47:23 hrs
+  WARNING: Node 6 disconnected at 18:47:23 hrs
+  WARNING: Node 25 disconnected at 18:47:23 hrs
+  WARNING: Node 26 disconnected at 18:47:23 hrs
+  WARNING: Node 27 disconnected at 18:47:23 hrs
+  WARNING: Node 33 disconnected at 18:47:23 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 18:48:56 hrs.
+   
+  WARNING: Negative pressures at 18:51:18 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 18:51:18 hrs.
+   
+  WARNING: Negative pressures at 18:55:24 hrs.
+   
+  WARNING: Negative pressures at 18:59:29 hrs.
+   
+  WARNING: Negative pressures at 19:00:00 hrs.
+   
+  WARNING: Negative pressures at 19:01:48 hrs.
+  WARNING: Node 1 disconnected at 19:01:48 hrs
+  WARNING: Node 6 disconnected at 19:01:48 hrs
+  WARNING: Node 25 disconnected at 19:01:48 hrs
+  WARNING: Node 26 disconnected at 19:01:48 hrs
+  WARNING: Node 27 disconnected at 19:01:48 hrs
+  WARNING: Node 33 disconnected at 19:01:48 hrs
+  WARNING: System disconnected because of Link 1
+   
+  WARNING: Negative pressures at 19:04:45 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 19:04:45 hrs.
+   
+  WARNING: Negative pressures at 19:05:29 hrs.
+   
+  WARNING: Negative pressures at 19:06:50 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 19:06:50 hrs.
+   
+  WARNING: Negative pressures at 19:09:22 hrs.
+   
+  WARNING: Negative pressures at 19:14:02 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 19:14:02 hrs.
+   
+  WARNING: Negative pressures at 19:15:28 hrs.
+   
+  WARNING: Negative pressures at 19:18:07 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 19:18:07 hrs.
+   
+  WARNING: Negative pressures at 19:19:28 hrs.
+   
+  WARNING: Negative pressures at 19:21:57 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 19:21:57 hrs.
+   
+  WARNING: Negative pressures at 19:25:55 hrs.
+   
+  WARNING: Negative pressures at 19:30:00 hrs.
+   
+  WARNING: Negative pressures at 19:33:14 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 19:33:14 hrs.
+   
+  WARNING: Negative pressures at 19:36:20 hrs.
+   
+  WARNING: Negative pressures at 19:40:25 hrs.
+   
+  WARNING: Negative pressures at 19:42:03 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 19:42:03 hrs.
+   
+  WARNING: Negative pressures at 19:47:00 hrs.
+   
+  WARNING: Negative pressures at 19:51:05 hrs.
+   
+  WARNING: Negative pressures at 19:56:07 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 19:56:07 hrs.
+   
+  WARNING: Negative pressures at 19:57:07 hrs.
+   
+  WARNING: Negative pressures at 19:58:58 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 19:58:58 hrs.
+   
+  WARNING: Negative pressures at 20:00:00 hrs.
+   
+  WARNING: Negative pressures at 20:01:10 hrs.
+   
+  WARNING: Negative pressures at 20:01:21 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 20:01:21 hrs.
+   
+  WARNING: Negative pressures at 20:07:59 hrs.
+   
+  WARNING: Negative pressures at 20:12:04 hrs.
+   
+  WARNING: Negative pressures at 20:14:43 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 20:14:43 hrs.
+   
+  WARNING: Negative pressures at 20:18:30 hrs.
+   
+  WARNING: Negative pressures at 20:22:20 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 20:22:20 hrs.
+   
+  WARNING: Negative pressures at 20:22:34 hrs.
+   
+  WARNING: Negative pressures at 20:22:48 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 20:22:48 hrs.
+   
+  WARNING: Negative pressures at 20:29:23 hrs.
+   
+  WARNING: Negative pressures at 20:33:28 hrs.
+   
+  WARNING: Negative pressures at 20:36:03 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 20:36:03 hrs.
+   
+  WARNING: Negative pressures at 20:39:54 hrs.
+   
+  WARNING: Negative pressures at 20:43:47 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 20:43:47 hrs.
+   
+  WARNING: Negative pressures at 20:43:58 hrs.
+   
+  WARNING: Negative pressures at 20:44:09 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 20:44:09 hrs.
+   
+  WARNING: Negative pressures at 20:50:48 hrs.
+   
+  WARNING: Negative pressures at 20:54:53 hrs.
+   
+  WARNING: Negative pressures at 20:57:30 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 20:57:30 hrs.
+   
+  WARNING: Negative pressures at 21:00:00 hrs.
+   
+  WARNING: Negative pressures at 21:01:08 hrs.
+   
+  WARNING: Negative pressures at 21:02:31 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 21:02:31 hrs.
+   
+  WARNING: Negative pressures at 21:05:00 hrs.
+   
+  WARNING: Negative pressures at 21:07:30 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 21:07:30 hrs.
+   
+  WARNING: Negative pressures at 21:11:28 hrs.
+   
+  WARNING: Negative pressures at 21:15:27 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 21:15:27 hrs.
+   
+  WARNING: Negative pressures at 21:15:33 hrs.
+   
+  WARNING: Negative pressures at 21:15:39 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 21:15:39 hrs.
+   
+  WARNING: Negative pressures at 21:22:24 hrs.
+   
+  WARNING: Negative pressures at 21:26:29 hrs.
+   
+  WARNING: Negative pressures at 21:29:11 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 21:29:11 hrs.
+   
+  WARNING: Negative pressures at 21:32:55 hrs.
+   
+  WARNING: Negative pressures at 21:36:40 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 21:36:40 hrs.
+   
+  WARNING: Negative pressures at 21:36:59 hrs.
+   
+  WARNING: Negative pressures at 21:37:18 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 21:37:18 hrs.
+   
+  WARNING: Negative pressures at 21:43:49 hrs.
+   
+  WARNING: Negative pressures at 21:47:54 hrs.
+   
+  WARNING: Negative pressures at 21:50:20 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 21:50:20 hrs.
+   
+  WARNING: Negative pressures at 21:54:23 hrs.
+   
+  WARNING: Negative pressures at 21:58:26 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 21:58:26 hrs.
+   
+  WARNING: Negative pressures at 21:58:28 hrs.
+   
+  WARNING: Negative pressures at 21:58:30 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 21:58:30 hrs.
+   
+  WARNING: Negative pressures at 22:00:00 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 22:00:00 hrs.
+   
+  WARNING: Negative pressures at 22:00:57 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 22:00:57 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 22:00:57 hrs.
+   
+  WARNING: Negative pressures at 22:05:12 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 22:05:12 hrs.
+   
+  WARNING: Negative pressures at 22:06:21 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 22:06:21 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 22:06:21 hrs.
+   
+  WARNING: Negative pressures at 22:09:02 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 22:09:02 hrs.
+   
+  WARNING: Negative pressures at 22:09:46 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 22:09:46 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 22:09:46 hrs.
+   
+  WARNING: Negative pressures at 22:15:49 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 22:15:49 hrs.
+   
+  WARNING: Negative pressures at 22:17:27 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 22:17:27 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 22:17:27 hrs.
+   
+  WARNING: Negative pressures at 22:19:42 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 22:19:42 hrs.
+   
+  WARNING: Negative pressures at 22:20:19 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 22:20:19 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 22:20:19 hrs.
+   
+  WARNING: Negative pressures at 22:20:45 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 22:20:45 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 22:20:45 hrs.
+   
+  WARNING: Negative pressures at 22:20:50 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 22:20:50 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 22:20:50 hrs.
+   
+  WARNING: Negative pressures at 23:00:00 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 23:00:00 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 23:00:00 hrs.
+   
+  WARNING: Negative pressures at 23:07:26 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 23:07:26 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 23:07:26 hrs.
+   
+  WARNING: Negative pressures at 24:00:00 hrs.
+  WARNING: FCV 7 open but cannot deliver flow at 24:00:00 hrs.
+  WARNING: FCV 15 open but cannot deliver flow at 24:00:00 hrs.
+   
+  Analysis ended Thu Aug 03 16:06:09 2023

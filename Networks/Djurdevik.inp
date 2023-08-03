@@ -1,0 +1,310 @@
+[TITLE]
+
+
+[JUNCTIONS]
+;ID              	Elev        	Demand      	Pattern         
+ 3               	281         	0           	                	;
+ 1               	175         	0           	1               	;
+ 5               	252         	0           	                	;
+ 6               	280         	1.27        	1               	;
+ 7               	244         	0           	                	;
+ 14              	260         	0           	                	;
+ 15              	260         	3           	1               	;
+ 16              	260         	2           	1               	;
+ 17              	260         	0           	                	;
+ 18              	260         	1           	1               	;
+ 19              	425         	1.73        	1               	;
+ 20              	245         	1           	1               	;
+ 21              	245         	1           	1               	;
+ 22              	245         	1           	1               	;
+ 23              	280         	0           	                	;
+ 24              	280         	0           	                	;
+ 25              	280         	0           	1               	;
+ 26              	280         	1           	1               	;
+ 27              	280         	1           	1               	;
+ 29              	250         	.22         	1               	;
+ 30              	250         	1.42        	1               	;
+ 31              	270         	0           	                	;
+ 32              	270         	0           	                	;
+ 33              	260         	1           	1               	;
+ 35              	390         	0           	                	;
+ 36              	390         	0           	                	;
+ 37              	310         	0           	                	;
+ 38              	310         	0           	                	;
+ 39              	250         	4.92        	1               	;
+ 40              	270         	3           	1               	;
+
+[RESERVOIRS]
+;ID              	Head        	Pattern         
+ 2               	439         	                	;
+ 12              	318         	                	;
+
+[TANKS]
+;ID              	Elevation   	InitLevel   	MinLevel    	MaxLevel    	Diameter    	MinVol      	VolCurve        	Overflow
+ Rezervoar       	325.0       	1           	0.3         	3           	5           	0           	                	;
+ 10              	322         	1           	0.1         	2           	6           	0           	                	;
+ 11              	302         	2           	0.1         	2           	6           	0           	                	;
+ 4               	420         	1           	.2          	2           	3           	0           	                	;
+
+[PIPES]
+;ID              	Node1           	Node2           	Length      	Diameter    	Roughness   	MinorLoss   	Status
+ 2               	3               	Rezervoar       	800         	81.4        	0.01        	0           	Open  	;
+ 1               	Rezervoar       	1               	2700        	96.8        	0.01        	0           	Open  	;
+ 6               	3               	5               	800         	144.6       	0.01        	0           	Open  	;
+ 14              	14              	15              	600         	144.6       	0.01        	0           	Open  	;
+ 16              	16              	17              	350         	144.6       	0.01        	0           	Open  	;
+ 17              	11              	17              	500         	99.4        	0.01        	0           	Open  	;
+ 18              	17              	18              	600         	144.6       	0.01        	0           	Open  	;
+ 19              	18              	19              	250         	99.4        	0.01        	0           	Open  	;
+ 20              	19              	20              	400         	57          	0.01        	0           	Open  	;
+ 21              	19              	21              	1500        	57          	0.01        	0           	Open  	;
+ 22              	18              	22              	1000        	100         	0.01        	0           	Open  	;
+ 23              	1               	23              	500         	57          	0.01        	0           	Open  	;
+ 24              	23              	24              	150         	99.4        	0.01        	0           	Open  	;
+ 25              	25              	24              	800         	57          	0.01        	0           	Open  	;
+ 26              	1               	25              	600         	57          	0.01        	0           	Open  	;
+ 27              	25              	26              	1200        	57          	0.01        	0           	Open  	;
+ 31              	29              	16              	1100        	144.6       	0.01        	0           	Open  	;
+ 33              	30              	29              	600         	144.6       	0.01        	0           	Open  	;
+ 34              	15              	30              	600         	144.6       	0.01        	0           	Open  	;
+ 35              	5               	31              	600         	99.4        	0.01        	0           	Open  	;
+ 36              	31              	7               	600         	99.4        	0.01        	0           	Open  	;
+ 10              	32              	10              	2200        	81.4        	0.01        	0           	Open  	;
+ 38              	24              	33              	600         	57          	0.01        	0           	Open  	;
+ 39              	33              	27              	600         	57          	0.01        	0           	Open  	;
+ 42              	12              	38              	100         	144.6       	0.01        	0           	Open  	;
+ 43              	10              	39              	300         	99.4        	0.01        	0           	Open  	;
+ 44              	7               	32              	100         	99.4        	0.01        	0           	Open  	;
+ 45              	14              	40              	100         	99.4        	0.01        	0           	Open  	;
+ 46              	Rezervoar       	6               	800         	96.8        	0.01        	0           	Open  	;
+ 3               	35              	3               	1400        	144.6       	0.01        	0           	Open  	;
+ 4               	37              	14              	2800        	144.6       	0.01        	0           	Open  	;
+ 5               	4               	2               	400         	144.6       	0.01        	0           	Open  	;
+ 8               	4               	36              	1           	144.6       	0.01        	0           	Open  	;
+
+[PUMPS]
+;ID              	Node1           	Node2           	Parameters
+
+[VALVES]
+;ID              	Node1           	Node2           	Diameter    	Type	Setting     	MinorLoss   
+ 7               	36              	35              	144         	FCV 	20          	0           	;
+ 15              	38              	37              	140         	FCV 	10          	0           	;
+
+[TAGS]
+
+[DEMANDS]
+;Junction        	Demand      	Pattern         	Category
+
+[STATUS]
+;ID              	Status/Setting
+
+[PATTERNS]
+;ID              	Multipliers
+;
+ 1               	.3          	.3          	.2          	.2          	1.1         	1.5         
+ 1               	2           	1.3         	1.2         	1           	1.2         	1.4         
+ 1               	1.3         	1.5         	2           	1.5         	1.2         	1           
+ 1               	1           	.9          	.7          	.7          	.3          	.3          
+;
+ 2               	1           	1           	1           	1           	1           	1           
+ 2               	1           	1           	1           	1           	1           	1           
+ 2               	1           	1           	1           	1           	1           	1           
+ 2               	1           	1           	1           	1           	1           	1           
+
+[CURVES]
+;ID              	X-Value     	Y-Value
+;PUMP: 
+;PUMP: 
+;PUMP: 
+;PUMP: 
+;PUMP: 
+
+[CONTROLS]
+
+LINK 10 CLOSED IF NODE 10 ABOVE 2.5
+LINK 10 OPEN IF NODE 10 BELOW 1
+
+LINK 2 CLOSED IF NODE Rezervoar ABOVE 2.5
+LINK 2 OPEN IF NODE Rezervoar BELOW 1
+
+LINK 5 CLOSED IF NODE 4 ABOVE 2
+LINK 5 OPEN IF NODE 4 BELOW 1
+
+
+LINK 17 CLOSED IF NODE 11 ABOVE 2
+LINK 17 OPEN IF NODE 11 BELOW 1
+
+[RULES]
+
+
+
+
+
+
+
+
+
+[ENERGY]
+ Global Efficiency  	75
+ Global Price       	0
+ Demand Charge      	0
+
+[EMITTERS]
+;Junction        	Coefficient
+
+[QUALITY]
+;Node            	InitQual
+
+[SOURCES]
+;Node            	Type        	Quality     	Pattern
+
+[REACTIONS]
+;Type     	Pipe/Tank       	Coefficient
+
+
+[REACTIONS]
+ Order Bulk            	1
+ Order Tank            	1
+ Order Wall            	1
+ Global Bulk           	0
+ Global Wall           	0
+ Limiting Potential    	0
+ Roughness Correlation 	0
+
+[MIXING]
+;Tank            	Model
+
+[TIMES]
+ Duration           	24
+ Hydraulic Timestep 	1:00
+ Quality Timestep   	0:05
+ Pattern Timestep   	1:00
+ Pattern Start      	0:00
+ Report Timestep    	1:00
+ Report Start       	0:00
+ Start ClockTime    	12 am
+ Statistic          	None
+
+[REPORT]
+ Status             	No
+ Summary            	No
+ Page               	0
+
+[OPTIONS]
+ Units              	LPS
+ Headloss           	D-W
+ Specific Gravity   	1
+ Viscosity          	1
+ Trials             	40
+ Accuracy           	0.001
+ CHECKFREQ          	2
+ MAXCHECK           	10
+ DAMPLIMIT          	0
+ Unbalanced         	Continue 10
+ Pattern            	1
+ Demand Multiplier  	1.0
+ Emitter Exponent   	0.5
+ Quality            	None mg/L
+ Diffusivity        	1
+ Tolerance          	0.01
+
+[COORDINATES]
+;Node            	X-Coord           	Y-Coord
+3               	-1445.738         	12578.820         
+1               	6684.697          	11839.690         
+5               	-735.593          	9332.443          
+6               	3905.797          	11579.710         
+7               	3394.842          	8999.110          
+14              	1815.132          	9433.892          
+15              	3815.132          	9086.066          
+16              	7702.899          	8362.319          
+17              	9409.335          	8535.342          
+18              	12728.175         	8636.791          
+19              	12728.175         	9375.921          
+20              	11162.958         	9419.400          
+21              	14496.291         	9506.356          
+22              	14702.899         	8376.812          
+23              	6887.596          	10013.603         
+24              	8670.204          	10100.559         
+25              	8655.712          	12883.168         
+26              	14076.002         	12694.762         
+27              	13220.929         	10897.661         
+29              	5717.391          	8492.754          
+30              	4413.043          	8710.145          
+31              	1644.928          	9362.319          
+32              	3601.449          	8652.174          
+33              	11036.232         	11202.899         
+35              	-2862.319         	12695.652         
+36              	-3427.536         	12724.638         
+37              	-3528.986         	6463.768          
+38              	-4210.145         	6550.725          
+39              	10876.812         	7101.449          
+40              	1673.913          	8318.841          
+2               	-4934.783         	12927.536         
+12              	-4905.797         	6565.217          
+Rezervoar       	61.509            	12086.066         
+10              	8989.045          	5622.298          
+11              	9543.478          	7246.377          
+4               	-4036.232         	12855.072         
+
+[VERTICES]
+;Link            	X-Coord           	Y-Coord
+6               	-1068.926         	12071.574         
+6               	-996.462          	11825.197         
+6               	-837.042          	11491.863         
+6               	-822.549          	11259.979         
+6               	-779.071          	10912.153         
+6               	-764.578          	10564.327         
+6               	-764.578          	10216.501         
+6               	-779.071          	9984.617          
+6               	-779.071          	9651.284          
+14              	2568.755          	9332.443          
+14              	3104.987          	9187.516          
+26              	6916.581          	12665.777         
+26              	7409.335          	12897.661         
+27              	8713.683          	13346.936         
+27              	9510.784          	13578.820         
+27              	10583.248         	13752.733         
+27              	11728.175         	13520.849         
+27              	12800.639         	13752.733         
+27              	13409.335         	13738.240         
+27              	13844.117         	13491.863         
+10              	4586.957          	8289.855          
+10              	5311.594          	7724.638          
+10              	5514.493          	7260.870          
+10              	6253.623          	6695.652          
+10              	7311.594          	5971.014          
+38              	9210.145          	10550.725         
+38              	9688.406          	10927.536         
+38              	10471.014         	11144.928         
+39              	11702.899         	11202.899         
+39              	12427.536         	11057.971         
+43              	9789.855          	6231.884          
+43              	10239.130         	6739.130          
+46              	2253.623          	11478.261         
+4               	-2862.319         	6666.667          
+4               	-1891.304         	7666.667          
+4               	-1543.478         	8565.217          
+4               	-1340.580         	9202.899          
+4               	-789.855          	9463.768          
+
+[LABELS]
+;X-Coord             Y-Coord             Label & Anchor Node
+3586.957          	11420.290         	"?ivcici"	
+10278.900         	12796.211         	"Aljici, Musici, ?ibovici, Nukici"	
+297.101           	8362.319          	"?urdrevik"	
+7847.826          	7304.348          	"R-Vrankovine"	
+8673.913          	5043.478          	"R-Kovaci"	
+-4746.377         	13652.174         	"Zahvat Zenunovacka  rijeka"	
+456.522           	12724.638         	"Gornja zona"	
+11268.116         	6463.768          	"Kovaci"	
+8195.652          	9043.478          	"Stari ?urdevik"	
+2789.855          	14144.928         	"POSTOJECE STANJE"	
+
+[BACKDROP]
+  DIMENSIONS  	0.000             	0.000             	10000.000         	10000.000         
+ UNITS          	None
+ FILE           	
+ OFFSET         	0.00            	0.00            
+
+[END]
