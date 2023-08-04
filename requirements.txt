@@ -1,0 +1,4 @@
+WNTR
+Kivy
+tensorflow
+numpy
