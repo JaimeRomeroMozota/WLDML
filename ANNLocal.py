@@ -1,6 +1,5 @@
 import tensorflow as tf
 from sklearn.model_selection import train_test_split
-from sklearn.model_selection import cross_val_score
 import numpy as np
 
 # Función para construir el modelo
@@ -42,7 +41,6 @@ def Ann (data,labels):
   
   inputSize = len (data[0,:])
   outputSize = 1
-  #normalizedData = tf.keras.utils.normalize(data, axis=0)
   x_train, x_test, y_train, y_test = train_test_split(data, labels, test_size=0.3, random_state=42)
 
   model = createModelClass(inputSize,outputSize)
@@ -51,7 +49,7 @@ def Ann (data,labels):
 
   model.evaluate(x_test,  y_test, verbose=2) 
 
-  model.save("./models/classification")
+  model.save("./models/classificationlocal")
 
 
 def AnnMultiClass (dataPressure,dataFlows,labels): 
@@ -77,7 +75,7 @@ def AnnMultiClass (dataPressure,dataFlows,labels):
 
   model.evaluate(x_test,  y_test, verbose=2) 
 
-  model.save("./models/multiClass")
+  model.save("./models/multiClassLocal")
 
 
 

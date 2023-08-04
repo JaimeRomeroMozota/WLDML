@@ -1,7 +1,6 @@
 import wntr
 import numpy as np
 import random
-from utils import showPipes
 
 def setRandomRoughness(wn, roughness_min, roughness_max):
     for pipe_name, pipe in wn.pipes():

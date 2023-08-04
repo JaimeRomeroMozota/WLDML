@@ -1,6 +1,4 @@
 import dataset
-import datasetLocal
-import ANNLocal
 import ANN
 import numpy as np
 
@@ -30,7 +28,7 @@ def trainNeuralNetwork():
     ANN.Ann(data, labels)
     ANN.AnnMultiClass(second_half_dataPressure, second_half_dataFlows, allLabelsPipe)
 
-def tryModel(leakChoice,leakPipe=0,leakSplit=0):
+def tryModel(leakChoice,leakPipe=5,leakSplit=0.5):
 
     dataPressureTry, dataFlowsTry, labelTry, labelsPipeTry = dataset.createCase(leakChoice,leakPipe,leakSplit)
     resultReal,resultPred = ANN.tryAnn(dataPressureTry, labelTry)
